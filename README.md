@@ -12,7 +12,7 @@ Time spent: 4 hours spent in total
 * [ ] Exploring Xcode
 * [ ] Setting up the UI
 * [ ] Connecting UI to Logic
-\
+
 
 ## Video Walkthrough
 
