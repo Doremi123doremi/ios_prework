@@ -18,7 +18,7 @@ Time spent: 4 hours spent in total
 
 Here's a walkthrough of implemented features:
 
-<img src='[https://github.com/Doremi123doremi/ios_prework/blob/main/ios_prework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Doremi123doremi/ios_prework/blob/main/ios_prework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap  
@@ -30,8 +30,12 @@ GIF created with Kap
 ## App Brainstorming
 
 Favorite apps:
+
 Google Calender - Quick Event Creation, Gmail Integration, Flexible Views
+
 Instagram - Likes and Comments, Save and Bookmark
-Google Map - Navigation, real-time traffic, and business information.
-Spotify - Music streaming with personalized playlists, podcasts, and offline downloads.
+
+Google Map - Navigation, real-time traffic, and business information
+
+Spotify - Music streaming with personalized playlists, podcasts, and offline downloads
 
